@@ -1,1 +1,1 @@
-Click [here](https://panosstav.github.io/) to redirect to my site.
+This [link](https://panosstav.github.io/) will redirect you to my website.
