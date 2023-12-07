@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate, School of Naval Architecture & Marine Engineering @ NTUA
+subtitle: Graduate - School of Naval Architecture & Marine Engineering @ NTUA
 
 profile:
   align: right
