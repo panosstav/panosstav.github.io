@@ -1,7 +1,12 @@
 ---
 layout: default
 permalink: /cv/
-title: Short Curriculum Vitae
+title: cv
+
+nav: true
+nav_order: 4
+cv_pdf:
+description: Short Curriculum Vitae
 
 Working Experience
 February 2022-February 2023, Military Service, Hellenic Navy
@@ -13,11 +18,6 @@ Diploma in Naval Architecture and Marine Engineering, National Technical Univers
 Projects
 January 2021-July 2023, Preliminary design of a ∼72,000 [tn] DWT Panamax Bulk Carrier
 January 2022-July 2023, Diploma Thesis - "Operational Assessment of Marine Diesel Generators using Data"
-
-nav: true
-nav_order: 4
-cv_pdf:
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 toc:
   sidebar: left
 ---
