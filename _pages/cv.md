@@ -1,15 +1,16 @@
 ---
-layout: default
+layout: cv
 permalink: /cv/
 title: cv
 
 nav: true
 nav_order: 4
 cv_pdf:
-description: Short Curriculum Vitae
+description: cv
 toc:
   sidebar: left
 ---
+Short Curriculum Vitae
 
 Working Experience
 February 2022-February 2023, Military Service, Hellenic Navy
