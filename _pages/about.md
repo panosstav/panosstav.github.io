@@ -19,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Panagiotis. I am a graduate with a diploma (joint degree B.Eng. & M.Eng.) in [Naval Architecture & Marine Engineering](http://www.naval.ntua.gr/) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/). My thesis title is: "Operational Assessment of Marine Power Generators using Data".
+Hi, I'm Panagiotis. I am a graduate with a diploma (joint degree B.Eng. & M.Eng.) in [Naval Architecture & Marine Engineering](http://www.naval.ntua.gr/) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/). My thesis title was: "Operational Assessment of Marine Power Generators using Data".
 
 My passion for mathematics, technology, and financial markets is expressed by my current objective to delve into finance and try to solve complex projects.
 
-I am a former chartering assistant intern in Latsco Marine Management, where I worked initially in financial markets.
+I am a former chartering assistant intern in [Latsco Marine Management Inc.](https://www.latsco.com/en), where I initially worked in the financial markets.
