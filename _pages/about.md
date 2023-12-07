@@ -24,5 +24,3 @@ Hi, I'm Panagiotis. I am a graduate with a diploma (joint degree B.Eng. & M.Eng.
 My passion for mathematics, technology, and financial markets is expressed by my current objective to delve into finance and try to solve complex projects.
 
 I am a former chartering assistant intern in Latsco Marine Management, where I worked initially in financial markets.
-
-My free time is mostly devoted to sports and music. I find joy and relaxation in participating in sports activities and I am always open to discovering new music genres. I regularly attend concerts, festivals, or football games, and I am particularly enthralled by live performances that skillfully blend expertise with a genuine human touch. I occasionally endeavor to participate in Kaggle competitions.
