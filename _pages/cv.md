@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cv
 permalink: /cv/
 title: cv
 nav: true
@@ -9,5 +9,4 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 redirect_to: /assets/pdf/cv-ps.pdf
 ---
 
-Short CV
-
+Short Curriculum Vitae
