@@ -7,6 +7,9 @@ nav: true
 nav_order: 4
 cv_pdf:
 description: Short Curriculum Vitae
+toc:
+  sidebar: left
+---
 
 Working Experience
 February 2022-February 2023, Military Service, Hellenic Navy
@@ -16,9 +19,5 @@ Education
 Diploma in Naval Architecture and Marine Engineering, National Technical University of Athens, 2023
 
 Projects
-January 2021-July 2023, Preliminary design of a ∼72,000 [tn] DWT Panamax Bulk Carrier
+January 2021-July 2023, Preliminary design of a ∼72,000 tn DWT Panamax Bulk Carrier
 January 2022-July 2023, Diploma Thesis - "Operational Assessment of Marine Diesel Generators using Data"
-toc:
-  sidebar: left
----
-
