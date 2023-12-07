@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Graduate, School of Naval Architecture & Marine Engineering @ NTUA
 
 profile:
   align: right
@@ -14,12 +14,12 @@ profile:
     <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Panagiotis. I am a graduate with a diploma (joint degree BEng & MEng) in Naval Architecture & Marine Engineering from the National Technical University of Athens (NTUA). My thesis title is: "Operational Assessment of Marine Power Generators using Data".
+Hi, I'm Panagiotis. I am a graduate with a diploma (joint degree B.Eng. & M.Eng.) in [Naval Architecture & Marine Engineering](http://www.naval.ntua.gr/) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/). My thesis title is: "Operational Assessment of Marine Power Generators using Data".
 
 My passion for mathematics, technology, and financial markets is expressed by my current objective to delve into finance and try to solve complex projects.
 
