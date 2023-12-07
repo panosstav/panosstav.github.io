@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://panosstav.github.io/panosstav/sitemap.xml
+Sitemap: https://panosstav.github.io/sitemap.xml
