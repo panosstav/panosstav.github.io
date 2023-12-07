@@ -12,19 +12,24 @@ toc:
 ---
 
 
-Short Curriculum Vitae
+# Short Curriculum Vitae
 
+## Working Experience
 
-Working Experience:
+- **February 2022-February 2023**
+  - Military Service, Hellenic Navy
 
-February 2022-February 2023, Military Service, Hellenic Navy
-July 2019-August 2019, Chartering Assistant Trainee, Latsco Marine Management Inc.
+- **July 2019-August 2019**
+  - Chartering Assistant Trainee, Latsco Marine Management Inc.
 
-Education:
+## Education
 
-Diploma in Naval Architecture and Marine Engineering, National Technical University of Athens, 2023
+- Diploma in Naval Architecture and Marine Engineering, National Technical University of Athens, 2023
 
-Projects:
+## Projects
 
-January 2021-July 2023, Preliminary design of a ∼72,000 tn DWT Panamax Bulk Carrier
-January 2022-July 2023, Diploma Thesis - "Operational Assessment of Marine Diesel Generators using Data"
+- **January 2021-July 2023**
+  - Preliminary design of a ∼72,000 tn DWT Panamax Bulk Carrier
+
+- **January 2022-July 2023**
+  - Diploma Thesis - "Operational Assessment of Marine Diesel Generators using Data"
