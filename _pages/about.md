@@ -6,7 +6,7 @@ subtitle: Graduate - School of Naval Architecture & Marine Engineering @ NTUA
 
 profile:
   align: right
-  image: Profile.jpg
+  image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
 #  <p>555 your office number</p>
