@@ -21,7 +21,7 @@ description: cv
 
 ## Education
 
-- Diploma in Naval Architecture and Marine Engineering, National Technical University of Athens, 2023
+- Diploma in Naval Architecture & Marine Engineering, National Technical University of Athens, 2023
 
 ## Projects
 

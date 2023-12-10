@@ -21,6 +21,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Panagiotis. I am a graduate with a diploma (joint degree B.Eng. & M.Eng.) from [School of Naval Architecture & Marine Engineering](http://www.naval.ntua.gr/) at the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/). My thesis title was: "Operational Assessment of Marine Power Generators using Data".
 
-My passion for mathematics, technology, and financial markets is expressed by my current objective to delve into finance and try to solve complex projects.
+My passion for mathematics, technology, and financial markets is expressed by my current objective to delve into finance and try to solve complex engineering challenges.
 
 I am a former chartering assistant intern in [Latsco Marine Management Inc.](https://www.latsco.com/en), where I initially worked in the financial markets.
