@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Naval Architect & Marine Engineer @ NTUA
+subtitle: Naval Architect & Marine Engineer @NTUA
 
 profile:
   align: right
