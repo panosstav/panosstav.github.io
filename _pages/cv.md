@@ -17,7 +17,7 @@ description: cv
   - Military Service, Hellenic Navy
 
 - **July 2019-August 2019**
-  - Chartering Assistant Trainee, Latsco Marine Management Inc.
+  - Chartering Intern, Latsco Marine Management Inc.
 
 ## Education
 
