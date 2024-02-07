@@ -16,7 +16,7 @@ description: cv
 - **February 2023-June 2023**
   - Research Assistant, National Technical University of Athens
 
-- **February 2022-February 2023**
+- **February 2022-January 2023**
   - Military Service, Hellenic Navy
 
 - **July 2019-August 2019**
