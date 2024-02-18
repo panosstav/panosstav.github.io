@@ -23,7 +23,7 @@ description: cv
   - Chartering Intern, Latsco Marine Management Inc.
 
 - **September 2015-Present**
-  - Project Manager, STAVRIDIS - DESIGN CURTAIN est. 2022
+  - Project Manager, Stavridis Dimitris Single-Membered P.C.
 
 ## Education
 
