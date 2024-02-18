@@ -13,7 +13,7 @@ description: cv
 
 ## Working Experience
 
-- **February 2023-June 2023**
+- **January 2022-June 2023**
   - Research Assistant, National Technical University of Athens
 
 - **February 2022-January 2023**
