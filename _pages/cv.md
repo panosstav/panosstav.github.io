@@ -13,17 +13,17 @@ description: cv
 
 ## Working Experience
 
-- **January 2022-June 2023**
+- **Sep 2015 - Jan 2024**
+  - Project Manager, Stavridis Dimitris Single-Membered P.C.
+
+- **Jan 2022 - Jun 2023**
   - Research Assistant, National Technical University of Athens
 
-- **February 2022-January 2023**
+- **Feb 2022 - Jan 2023**
   - Military Service, Hellenic Navy
 
-- **July 2019-August 2019**
+- **Jul 2019 - Aug 2019**
   - Chartering Intern, Latsco Marine Management Inc.
-
-- **September 2015-Present**
-  - Project Manager, Stavridis Dimitris Single-Membered P.C.
 
 ## Education
 
@@ -31,8 +31,8 @@ description: cv
 
 ## Projects
 
-- **January 2021-July 2023**
+- **Jan 2021 - Jul 2023**
   - Preliminary design of a ∼72,000 tn DWT Panamax Bulk Carrier
 
-- **January 2022-July 2023**
+- **Jan 2022 - Jul 2023**
   - Diploma Thesis - "Operational Assessment of Marine Diesel Generators using Data"
