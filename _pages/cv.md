@@ -22,6 +22,9 @@ description: cv
 - **July 2019-August 2019**
   - Chartering Intern, Latsco Marine Management Inc.
 
+- **September 2015-Present**
+  - Project Manager, STAVRIDIS - DESIGN CURTAIN est. 2022
+
 ## Education
 
 - Diploma in Naval Architecture & Marine Engineering, National Technical University of Athens, 2023
