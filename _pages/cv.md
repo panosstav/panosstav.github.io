@@ -13,11 +13,8 @@ description: cv
 
 ## Working Experience
 
-- **Sep 2015 - Jan 2024**
+- **Sep 2015 - Present**
   - Project Manager, Stavridis Dimitris Single-Membered P.C.
-
-- **Jan 2022 - Jun 2023**
-  - Research Assistant, National Technical University of Athens
 
 - **Feb 2022 - Jan 2023**
   - Military Service, Hellenic Navy
