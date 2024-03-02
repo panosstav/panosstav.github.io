@@ -13,7 +13,10 @@ description: cv
 
 ## Working Experience
 
-- **Sep 2015 - Present**
+- **Mar 2015 - Present**
+  - Technical Coordinator, Technomar Shipping Inc.
+
+- **Sep 2015 - Feb 2024**
   - Project Manager, Stavridis Dimitris Single-Membered P.C.
 
 - **Feb 2022 - Jan 2023**

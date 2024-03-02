@@ -24,3 +24,5 @@ Hi, I'm Panagiotis. I am a graduate with a diploma from [School of Naval Archite
 My passion for mathematics, technology, and financial markets is expressed by my current objective to delve into finance and try to solve complex engineering challenges. I possess strong interest in equity market and investments.
 
 I am a former chartering intern in [Latsco Marine Management Inc.](https://www.latsco.com/en), where I initially worked in the financial markets.
+
+I am an (incoming) Technical Coordinator at Technomar Shipping Inc., where I work in the operation of bulk carriers and containerships' department of the company.
