@@ -25,4 +25,4 @@ My passion for mathematics, technology, and financial markets is expressed by my
 
 I am a former chartering intern in [Latsco Marine Management Inc.](https://www.latsco.com/en), where I initially worked in the financial markets.
 
-I am an (incoming) Technical Coordinator at Technomar Shipping Inc., where I work in the operation of bulk carriers' and containerships' department of the company.
+I am an (incoming) Technical Coordinator at Technomar Shipping Inc., where I work on technical issues of the operation of bulk carriers' and containerships' department of the company.

@@ -13,7 +13,7 @@ description: cv
 
 ## Working Experience
 
-- **Mar 2015 - Present**
+- **Mar 2024 - Present**
   - Technical Coordinator, Technomar Shipping Inc.
 
 - **Sep 2015 - Feb 2024**
