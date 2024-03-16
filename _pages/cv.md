@@ -16,7 +16,7 @@ description: cv
 - **Mar 2024 - Present**
   - Technical Coordinator, Technomar Shipping Inc.
 
-- **Sep 205 - Feb 2024**
+- **Sep 2015 - Feb 2024**
   - Project Manager, Stavridis Dimitris Single-Membered P.C.
 
 - **Jan 2022 - June 2023**
@@ -30,7 +30,7 @@ description: cv
 
 ## Education
 
-- Diploma in Naval Architecture & Marine Engineering, National Technical University of Athens, 2023
+- Diploma of Engineering in Naval Architecture & Marine Engineering, National Technical University of Athens, 2023
 
 ## Projects
 
