@@ -16,8 +16,11 @@ description: cv
 - **Mar 2024 - Present**
   - Technical Coordinator, Technomar Shipping Inc.
 
-- **Sep 2015 - Feb 2024**
+- **Sep 205 - Feb 2024**
   - Project Manager, Stavridis Dimitris Single-Membered P.C.
+
+- **Jan 2022 - June 2023**
+  - Research Assistant, National Technical University of Athens
 
 - **Feb 2022 - Jan 2023**
   - Military Service, Hellenic Navy
