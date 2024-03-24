@@ -30,7 +30,7 @@ description: cv
 
 ## Education
 
-- Diploma of Engineering in Naval Architecture & Marine Engineering, National Technical University of Athens, 2023
+- Diploma in Naval Architecture & Marine Engineering, National Technical University of Athens, 2023
 
 ## Projects
 
@@ -38,4 +38,4 @@ description: cv
   - Preliminary design of a ∼72,000 tn DWT Panamax Bulk Carrier
 
 - **Jan 2022 - Jul 2023**
-  - Diploma Thesis - "Operational Assessment of Marine Diesel Generators using Data"
+  - Operational Assessment of Marine Diesel Generators using Data
