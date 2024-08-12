@@ -17,10 +17,10 @@ description: cv
   - Technical Coordinator, Technomar Shipping Inc.
 
 - **Feb 2022 - Jun 2023**
-  - Military Service, Hellenic Navy
+  - Research Assistant, National Technical University of Athens
 
 - **Feb 2022 - Jan 2023**
-  - Research Assistant, National Technical University of Athens
+  - Military Service, Hellenic Navy
 
 - **Jul 2019 - Aug 2019**
   - Chartering Intern, Latsco Marine Management Inc.
