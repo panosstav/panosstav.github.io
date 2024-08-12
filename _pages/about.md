@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Panagiotis. I am a graduate with a diploma (B.Sc. & M.Sc.) from [School of Naval Architecture and Marine Engineering](http://www.naval.ntua.gr/) at the [National Technical University of Athens](https://www.ntua.gr/en/) (NTUA). My thesis title was: "Operational Assessment of Marine Diesel Generators using Data".
 
-My enthusiasm for mathematics and technology drives my ambition to pursue roles that involve data analysis and address intricate engineering challenges.
+My enthusiasm for mathematics and technology drives my ambition to pursue roles in finance and address intricate engineering challenges.
 
 I am a former chartering intern in [Latsco Marine Management Inc.](https://www.latsco.com/en), where I worked in the financial markets and global trade.
 
