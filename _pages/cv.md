@@ -16,9 +16,6 @@ description: cv
 - **Mar 2024 - Present**
   - Technical Coordinator, Technomar Shipping Inc.
 
-- **Feb 2022 - Jun 2023**
-  - Research Assistant, National Technical University of Athens
-
 - **Feb 2022 - Jan 2023**
   - Military Service, Hellenic Navy
 
