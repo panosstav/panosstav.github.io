@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Panagiotis. I am a graduate with a diploma (B.Sc. & M.Sc.) from [School of Naval Architecture and Marine Engineering](http://www.naval.ntua.gr/) at the [National Technical University of Athens](https://www.ntua.gr/en/) (NTUA). My thesis title was: "Operational Assessment of Marine Diesel Generators using Data".
+Hi, I'm Panagiotis. I am a graduate with a diploma (joint degree B.Sc. & M.Sc.) from [School of Naval Architecture and Marine Engineering](http://www.naval.ntua.gr/) at the [National Technical University of Athens](https://www.ntua.gr/en/) (NTUA). My thesis title was: "Operational Assessment of Marine Diesel Generators using Data".
 
 I am a former chartering intern in [Latsco Marine Management Inc.](https://www.latsco.com/en), where I worked in the financial markets and global trade.
 
