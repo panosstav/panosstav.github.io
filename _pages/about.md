@@ -23,4 +23,4 @@ Hi, I'm Panagiotis. I am a graduate with a diploma (joint degree B.Sc. & M.Sc.) 
 
 Moreover, being a former Chartering Intern at [Latsco Marine Management Inc.](https://www.latsco.com/en), I worked in the shipping financial markets and global trade. I coducted voyage and time charter calculations involved in route planning, cost optimization, and risk management.
 
-I am currently working as a Junior Marine Engineer at Technomar Shipping Inc., which is the manager of [Global Ship Lease Inc.](https://www.globalshiplease.com/) (NYSE: GSL). I oversee various technical aspects involved in the operation and maintenance of bulk carrier vessels. My responsibilities encompass mechanical engineering, predictive planned maintenance, data analytics, and budgeting solutions.
+I am currently working as a Junior Marine Engineer at Technomar Shipping Inc., which is the manager of [Global Ship Lease Inc.](https://www.globalshiplease.com/) (NYSE: GSL). I oversee various technical aspects involved in the operation and maintenance of bulk carrier vessels. My responsibilities encompass mechanical engineering, predictive maintenance, data analytics, and budgeting solutions.
