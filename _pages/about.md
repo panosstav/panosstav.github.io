@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Marine & AI Engineer
+subtitle: Naval Arcitecture & Marine Engineer
 
 #profile:
 #  align: right
