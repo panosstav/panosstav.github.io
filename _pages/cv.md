@@ -14,13 +14,13 @@ description: cv
 ## Working Experience
 
 - **Mar 2024 - Present**
-  - Junior Marine & AI Engineer, Technomar Shipping Inc.
+  - Technical Coordinator, Technomar Shipping Inc.
 
 - **Feb 2022 - Jan 2023**
-  - Sailor, Hellenic Navy
+  - Military Serive, Hellenic Navy
 
 - **Jul 2019 - Aug 2019**
-  - AI & Analytics Intern, Latsco Marine Management Inc.
+  - Chartering Intern, Latsco Marine Management Inc.
 
 ## Education
 
