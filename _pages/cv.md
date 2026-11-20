@@ -13,7 +13,10 @@ description: cv
 
 ## Working Experience
 
-- **Mar 2024 - Present**
+- **Feb 2026 - Nov 2026**
+  - Assistant Superintendent Engineer, Velos Shipping
+
+- **Mar 2024 - Feb 2026**
   - Technical Coordinator, Technomar Shipping Inc.
 
 - **Feb 2022 - Jan 2023**
