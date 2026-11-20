@@ -24,5 +24,7 @@ Hi, I'm Panagiotis. I am a graduate with a diploma (joint degree B.Sc. & M.Sc.) 
 Moreover, I was a Chartering Intern at [Latsco Marine Management Inc.](https://www.latsco.com/en), where I Explored how the company executes voyage and time chart calculations, composes charter party forms, checks clauses, and monitored the procedure of chartering a vessel, while kept track of the 
 financial markets and global trade.
 
-I am currently working as a Technical Coordinator at Technomar Shipping Inc., which is the manager of [Global Ship Lease Inc.](https://www.globalshiplease.com/) (NYSE: GSL). The responsibilities encompass overseeing various technical aspects involved in the operation and maintenance of a fleet consisting of bulk carrier vessels. The responsibilities encompass mechanical engineering, data analytics, 
+I worked for 2 years as a Technical Coordinator at Technomar Shipping Inc., which is the manager of [Global Ship Lease Inc.](https://www.globalshiplease.com/) (NYSE: GSL). The responsibilities encompass overseeing various technical aspects involved in the operation and maintenance of a fleet consisting of bulk carrier vessels. The responsibilities encompass mechanical engineering, data analytics, 
 and budgeting solutions.
+
+During my less than a year tenure in [Velos Shipping](https://velosshipping.com/en), I gained first hand experience with attending vessels (~120 days) for account of the technical department needs.

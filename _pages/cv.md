@@ -18,7 +18,7 @@ description: cv
 
 - **Mar 2024 - Feb 2026**
   - Technical Coordinator, Technomar Shipping Inc.
-
+ 
 - **Feb 2022 - Jan 2023**
   - Military Serive, Hellenic Navy
 
